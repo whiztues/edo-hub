@@ -1,0 +1,79 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+nav {
+    height: 70px;
+}
+
+.one {
+    background-image: url(photo-152.avif);
+    background-size: 100%;
+    width: 100%;
+    height: 70%;
+    margin-bottom: 40px;
+}
+
+.swm4 {
+    margin-top: 17px;
+}
+
+.nav-item {
+    margin: 1rem 2rem;
+    font-size: 15px;
+    align-items: center;
+}
+
+.text1 {
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: burlywood;
+    font-size: 20px;
+}
+
+.logo {
+    width: 40px;
+}
+
+.row {
+    background-color: rgb(241, 247, 247);
+}
+
+.img2 {
+    width: 300px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.languages {
+    font-size: 13px;
+}
+
+.r-tsss {
+    font-size: 40px;
+}
+
+.lorem {
+    font-size: 15px;
+}
+
+.t-ul {
+    margin-right: 150px;
+
+}
+
+.t-ul1 {
+    margin-bottom: 8px;
+}
+
+.t-ul2 {
+    margin-bottom: 8px;
+}
+
+.t-ul3 {
+    margin-bottom: 8px;
+}
